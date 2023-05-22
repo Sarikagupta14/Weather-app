@@ -108,6 +108,9 @@
             width: 400px;
             height: 500px;
         }
+        #gmap_canvas{
+                border-radius: 1rem;
+         }
 
         #container {
             
@@ -266,5 +269,8 @@
                 width: 80%;
                 margin: auto;
             }
+                  #gmap_canvas{
+                border-radius: 1rem;
+         }
           }
           
